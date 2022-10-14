@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leasing-calculator/static/css/main.b32bff3a.css",
+    "main.js": "/leasing-calculator/static/js/main.91eaf081.js",
+    "static/js/787.c1112931.chunk.js": "/leasing-calculator/static/js/787.c1112931.chunk.js",
+    "index.html": "/leasing-calculator/index.html",
+    "main.b32bff3a.css.map": "/leasing-calculator/static/css/main.b32bff3a.css.map",
+    "main.91eaf081.js.map": "/leasing-calculator/static/js/main.91eaf081.js.map",
+    "787.c1112931.chunk.js.map": "/leasing-calculator/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b32bff3a.css",
+    "static/js/main.91eaf081.js"
+  ]
+}
